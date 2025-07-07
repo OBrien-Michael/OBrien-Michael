@@ -25,7 +25,7 @@ Passionate about building meaningful web experiences and amplifying voices throu
 ## 📫 Connect with Me
 
 - [West Limerick 102FM](https://www.westlimerick102fm.ie/)
-- (Add LinkedIn, Twitter, or other links here!)
+- [Facebook](https://www.facebook.com/Gr1dm4st3r)
 
 ---
 
