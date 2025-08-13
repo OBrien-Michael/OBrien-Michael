@@ -46,11 +46,12 @@ Results-driven **Software Developer** with a **BSc (Hons) in Contemporary Softwa
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OBrien-Michael&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBrien-Michael&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <a href="">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=OBrien-Michael&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBrien-Michael&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
+  </a>
 </div>
 
 ---
